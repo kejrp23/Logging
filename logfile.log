@@ -35,3 +35,23 @@ Level: Critical, Message: File encountered a horrible error Time: Sat May 27 21:
 
 Level: Warning, Message: file ran again Time: Sat May 27 21:19:31 2023
 
+Level: Critical, Message: File encountered a horrible error Time: Sun May 28 20:17:51 2023
+
+Level: Warning, Message: file ran again Time: Sun May 28 20:17:51 2023
+
+Level: Critical, Message: File encountered a horrible error Time: Mon May 29 20:55:09 2023
+
+Level: Info, Message: End function detected Time: Mon May 29 20:55:09 2023
+
+Level: Critical, Message: File encountered a horrible error Time: Mon May 29 20:55:15 2023
+
+Level: Info, Message: End function detected Time: Mon May 29 20:55:15 2023
+
+Level: Critical, Message: File encountered a horrible error Time: Mon May 29 20:55:16 2023
+
+Level: Info, Message: End function detected Time: Mon May 29 20:55:16 2023
+
+Level: Critical, Message: File encountered a horrible error Time: Sat Jun  3 20:06:40 2023
+
+Level: Info, Message: End function detected Time: Sat Jun  3 20:06:40 2023
+

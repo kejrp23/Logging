@@ -11,12 +11,13 @@ struct Logging {
 		std::string level;
 		std::string message;
 
-
 		void log(std::string x, std::string m){
 				std::fstream logfile {"logfile.log", std::ios_base::app};
 				logfile << "Level: " << x << ", Message: " << m << " Time: " << today << "\n";
 				std::cout << "action logged\n";
 	};
+
+
 
 };
 
@@ -41,7 +42,8 @@ void hello(){
 
 void end(){
 		std::cout << "End of application\n";
-		error("Warning","file ran again");
+		error("Info","End function detected");
+		
 }
 
 int main (){
